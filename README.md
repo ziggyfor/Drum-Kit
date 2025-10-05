@@ -1,2 +1,2 @@
 # Drum-Kit
-Click on the drums and create a beat!
+Click on the drums or the corresponding keyboard and create a beat.
